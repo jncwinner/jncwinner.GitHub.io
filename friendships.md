@@ -1,4 +1,4 @@
-How ffriends really are in America
+How friends really are in America
 ================
 
 <ul id="subMenue">
