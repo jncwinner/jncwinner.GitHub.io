@@ -1,11 +1,11 @@
-How people really are in America
+About Me
 ================
 
 <ul id="subMenue">
-    <li><a class="selected" title= "How people really are in America">Americans</a></li>
-    <li><a href="/fluffy-barnacle/friendships.md" title="How friends really are in America">Friendships</a></li>
-    <li><a href="/jncwinner/fluffy-barnacle/enemy.md" title="How enemys really are in America">Enemys</a></li>
-    <li><a href="/jncwinner/fluffy-barnacle/family.md" title="How family really is in America">Family</a></li>
-    <li><a href="/jncwinner/fluffy-barnacle/morals.md" title="Where morals lie">Morals</a></li>
+    <li><a class="selected" title= "About Me">About</a></li>
+    <li><a href="/jncwinner/fluffy-barnacle/p1" title="This is project1">project1</a></li>
+    <li><a href="/jncwinner/fluffy-barnacle/p2" title="This is project2"<project2</a></li>
+    <li><a href="/jncwinner/fluffy-barnacle/p3" title="This is project3">project1</a></li>
+    <li><a href="/jncwinner/fluffy-barnacle/p4" title="This is project4"<project2</a></li>
 </ul>
 
